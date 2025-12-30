@@ -57,8 +57,10 @@
 ###
 <br clear="both">
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagodev28&theme=tokyonight&hide_border=false" />
+</p>
 
-  ![santiagodev28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santiagodev28&theme=tokyonight&hide_border=false)
 
 ###
 <br clear="both">
