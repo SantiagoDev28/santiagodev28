@@ -58,7 +58,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=santiagodev28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  ![santiagodev28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santiagodev28&theme=tokyonight&hide_border=false)
 </div>
 
 ###
