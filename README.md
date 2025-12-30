@@ -57,9 +57,8 @@
 ###
 <br clear="both">
 
-<div align="center">
+
   ![santiagodev28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santiagodev28&theme=tokyonight&hide_border=false)
-</div>
 
 ###
 <br clear="both">
