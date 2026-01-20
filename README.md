@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador full-stack apasionado por crear soluciones web modernas y funcionales. Actualmente estoy enfocado en mejorar mis habilidades en JavaScript, React, Node.js, y MySQL, mientras desarrollo proyectos reales que resuelvan problemas cotidianos, especialmente en el sector de servicios.</p>
+<p align="left">Soy un desarrollador full-stack con un fuerte enfoque en backend, especializado en la construcción de soluciones web modernas, escalables y funcionales. Domino tecnologías como JavaScript, React, Node.js y MySQL, y actualmente trabajo principalmente con Spring Boot para el desarrollo de APIs y servicios robustos. Desarrollo proyectos reales orientados a la resolución de problemas concretos, especialmente en el sector de servicios, aplicando buenas prácticas de arquitectura y código limpio.</p>
 
 ###
 
