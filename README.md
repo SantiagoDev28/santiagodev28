@@ -1,29 +1,44 @@
+<h1 align="center">👋 Hi, I'm Santiago Hurtado</h1>
+
+<h3 align="center">
+Backend Software Engineer • TypeScript • NestJS • React
+</h3>
+
+<p align="center">
+Building software, documenting the process, and continuously learning through real-world projects.
+</p>
+
+<h2>🚀 About Me</h2>
+
+<p>
+
+💻 Software Engineer with experience building scalable web applications using TypeScript, NestJS, and React.
+
+I'm currently expanding my expertise in Java, Spring Boot, Clean Architecture, and System Design while documenting my engineering journey through real-world projects and continuous learning.
+
+</p>
+
+## 📚 Currently Working On
+
+### Learning
+
+- Advanced Java
+- Spring Boot
+- Advanced NestJS
+- Clean Architecture
+- Design Patterns
+- System Design
+
+### Building
+
+- 📖 Study Repository
+- 🏛 AI Architecture Portal
+- 🌐 Personal Portfolio
+
+###
+
+<h2>🛠 Tech Stack</h2>
 <br clear="both">
-
-<h1 align="center">👋 Hola, soy Santiago Hurtado!</h1>
-
-###
-
-<p align="left">Soy un desarrollador full-stack con un fuerte enfoque en backend, especializado en la construcción de soluciones web modernas, escalables y funcionales. Domino tecnologías como JavaScript, React, Node.js y MySQL, y actualmente trabajo principalmente con Spring Boot para el desarrollo de APIs y servicios robustos. Desarrollo proyectos reales orientados a la resolución de problemas concretos, especialmente en el sector de servicios, aplicando buenas prácticas de arquitectura y código limpio.</p>
-
-###
-
-<h2 align="left">Sobre mi</h2>
-
-###
-
-<p align="left">✨ Empecé a programar en 2023<br><br>📚 Actualmente estoy fortaleciendo mis habilidades en Java con énfasis en arquitectura limpia, principios SOLID y buenas prácticas de POO.<br><br>🎯 Objetivos: <br>Construir soluciones escalables que resuelvan problemas reales.<br>Convertirme en un desarrollador senior reconocido.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Tecnologías que uso:</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -53,28 +68,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
 <br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagodev28&theme=tokyonight&hide_border=false" />
-</p>
+##
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=santiagodev28&theme=dark-smoky&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
 
-
-###
+<h2>🤝 Let's Connect</h2>
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/santiago-hurtado-703ba4355/">
+  <a href="https://www.linkedin.com/in/santiago-ely-hurtado-mej%C3%ADa-703ba4355/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  
-
-  
-  <a href="https://mail.google.com/mail/u/0/?hl=es#inbox?compose=CllgCJlLWnZmCjQhdLRxgDKFJCclvgWJHqvqjHqXVdBHWGpknMwhDCQjVrVjKNtDFwrscqJcfML" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
-
-###
